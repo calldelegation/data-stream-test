@@ -1,0 +1,10 @@
+[package]
+name = "data-stream-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fuel-streams = "0.0.23"
+futures = "0.3.31"
+tokio = "1.43.0"
+fuel-core = "=0.40.3"
